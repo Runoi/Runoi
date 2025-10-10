@@ -33,7 +33,6 @@
   <h3 align="center">Production-Ready Классификатор токсичности</h3>
   <div align="center">
     <a href="https://github.com/Runoi/lightweight-toxic-classifier" target="_blank">
-      <img src="https://raw.githubusercontent.com/Runoi/lightweight-toxic-classifier/main/path/to/your/image.png" alt="Классификатор" width="400">
     </a>
     <p>
       <a href="https://github.com/Runoi/lightweight-toxic-classifier" target="_blank">
@@ -47,7 +46,6 @@
   <h3 align="center">AI Personal Assistant</h3>
   <div align="center">
     <a href="https://github.com/Runoi/personal-assistant" target="_blank">
-      <img src="https://raw.githubusercontent.com/Runoi/personal-assistant/main/path/to/your/image.png" alt="Ассистент" width="400">
     </a>
     <p>
       <a href="https://github.com/Runoi/personal-assistant" target="_blank">
@@ -63,7 +61,6 @@
   <h3 align="center">Manga Reader (Desktop App)</h3>
   <div align="center">
     <a href="https://github.com/Runoi/Manga-Reader" target="_blank">
-      <img src="https://raw.githubusercontent.com/Runoi/Manga-Reader/main/path/to/your/image.png" alt="Manga Reader" width="400">
     </a>
     <p>
       <a href="https://github.com/Runoi/Manga-Reader" target="_blank">
@@ -77,7 +74,6 @@
   <h3 align="center">DevOps-мониторинг на Bash</h3>
   <div align="center">
     <a href="https://github.com/Runoi/devops-monitoring-task" target="_blank">
-      <img src="https://raw.githubusercontent.com/Runoi/devops-monitoring-task/main/path/to/your/image.png" alt="DevOps" width="400">
     </a>
     <p>
       <a href="https://github.com/Runoi/devops-monitoring-task" target="_blank">
