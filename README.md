@@ -71,19 +71,20 @@
   </div>
 </td>
 <td width="50%">
-  <h3 align="center">DevOps-мониторинг на Bash</h3>
+  <h3 align="center">Система распознавания номеров (ANPR)</h3>
   <div align="center">
-    <a href="https://github.com/Runoi/devops-monitoring-task" target="_blank">
+    <a href="https://github.com/Runoi/ANPR-System" target="_blank">
     </a>
     <p>
-      <a href="https://github.com/Runoi/devops-monitoring-task" target="_blank">
+      <a href="https://github.com/Runoi/ANPR-System" target="_blank">
         <b>Посмотреть на GitHub</b>
       </a>
     </p>
-    <p>Тестовое задание на Junior DevOps. Решение включает <strong>Bash</strong>, <strong>Systemd</strong> (timers/services) и полностью воспроизводимое тестовое окружение на <strong>Docker</strong>. Демонстрирует глубокое понимание Linux и DevOps-принципов.</p>
+    <p>
+      End-to-end ML-пайплайн для распознавания российских автономеров. Решение включает <strong>кастомное обучение</strong> двух SOTA-моделей: детектора на <strong>YOLOv8</strong> и OCR на <strong>CRNN (PyTorch)</strong>. Проект демонстрирует полный цикл ML-разработки: от анализа данных и обучения до <strong>INT8-квантизации</strong> и создания production-ready приложения.
+    </p>
   </div>
 </td>
-</tr>
 </table>
 
 ---
